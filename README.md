@@ -21,7 +21,6 @@ This project is an intelligent chatbot built using **Dialogflow** for natural la
   - General guidance on documentation and process
 - Multilingual support (if enabled in Dialogflow)
 - Easy integration with platforms like WhatsApp, Web, or Android apps
-
 ---
 
 ## 🛠 Tech Stack
@@ -34,5 +33,8 @@ This project is an intelligent chatbot built using **Dialogflow** for natural la
 | Integrations  | Webhook Fulfillment    |
 |               | (Dialogflow ↔ Fast API)|
 ----
+
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/0a7adce8-7a36-4897-a304-093c38d2c25b" />
+<img src="https://github.com/user-attachments/assets/8d5c9cdf-d883-4be9-b37b-da8744306c80" alt="Telegram" width="300"/>
 
 
